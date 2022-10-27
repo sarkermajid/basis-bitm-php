@@ -1,0 +1,9 @@
+=> $_GET array ? eta diye bujano hoy.
+=> $_GET['page'] = "home"; adike page holo index and home holo value.
+
+=> isset() build in function ata check kore value ache naki nai. thakle value return kore naile kisu e hoy na false return kore
+=> ekta php file er sathe arekta php file connect korar jonno require_once and include use kora hoy. bt kokon konta use krbo setar ans holo
+jodi sudu php thake 2 ta file e r modde taile require_once hobe r jodi php chara o html ba onno kisu thake connect korar page a taile
+include hobe.
+
+=> "" eta variable chine. '' eta variable chine nah.

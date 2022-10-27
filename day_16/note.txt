@@ -1,0 +1,22 @@
+### Statement ->
+
+* single line statement :
+public $x,$y,$z thn
+$this->x=10;
+$this->y=20;
+$this->z= $this->x + $this->y;
+echo $this->z;
+^ that was 4 line statement.
+
+* conditional statement :
+1. if
+2. else if
+3. if else if
+4. switch
+
+*repeated statement :
+1.for -> for loop anti clock er moto kaj kore.
+2.while
+3.do while
+4.foreach -> eta kaj kore array niye.
+array is a collection of data. it's a special variable. => this sign is called array object

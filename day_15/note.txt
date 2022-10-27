@@ -1,0 +1,50 @@
+## Namespace ==>
+1.namespace er kaj hocche class er ekta virtual directory make kora.
+2.composer er throw te jokon class load krbo tokon namespace mandatory.
+3.composer chara direct require_once kore class call korle o kaj krbe. tobe sob class er jonno e ante hobe tai amra composer
+  use kori cmd=> composer dump-autoload command chalaia thn require_once "vendor/autoload.php"; ata use krle ar class call kora lagbe nah.
+  tobe composer er ekta mandatory hocche namespace use kora lagbe.
+
+## PHP object sign is -> .
+## variable ==>
+->variable is a memory location address and identifier.
+-> 3 major rules :
+    1.start with $ sign.
+    2.a-z, A-Z, 0-9,_.
+    3.No number in first.
+-> 3 standard rules :
+    1. small latter.
+    2. meaning full.
+    3. readable.
+
+## &nbsp; diye ek er odik space dea jay.
+## gettype() function diye variable type check kora hoy.
+## php variable data type 4 doroner hoy. int,string,float,boolean,
+
+## Operator =>
+-> Arithmetic operator: (+,-,*,/,%) (++,--)
+-> Assignment operator: (=,+=,-=./=,%=,.=)
+-> Conditional operator: (>,>=,<,<=,==,!=,===,!==)
+-> Logical operator: (&&,||,!)
+
+## statement =>
+-> 3 types of statement
+ 1. single line statement.
+ 2. conditional statement.
+    1.if
+    2.if else
+    3.if else if
+    4.switch
+ 3. Repeated statement.
+    1.for
+    2.while
+    3.do while
+    4.foreach
+
+->5 ta part
+ 1.keyword or syntax
+ 2.value (variable or fixed).
+ 3.operator (+,-,*,/)
+ 4.expression (operator and value mile expression hoy)
+## (-) Negation operator.
+
