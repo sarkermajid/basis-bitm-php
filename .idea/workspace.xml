@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b59ef00-5572-4f7e-8431-42ae83142a2b" name="Default Changelist" comment="" />
+    <list default="true" id="9b59ef00-5572-4f7e-8431-42ae83142a2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/day_17_practice2/app/classes/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/day_17_practice2/app/classes/Home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_17_practice2/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/day_17_practice2/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_17_practice2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/day_17_practice2/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666870995814</updated>
       <workItem from="1666870997163" duration="586000" />
-      <workItem from="1666871737517" duration="120000" />
+      <workItem from="1666871737517" duration="451000" />
     </task>
     <servers />
   </component>
@@ -83,10 +87,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="353" key="NewPhpFileDialog" timestamp="1666871183660">
+    <state x="404" y="148" key="NewPhpClassDialog" timestamp="1666871958073">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="554" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1666871183660" />
+    <state x="404" y="148" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1666871958073" />
+    <state x="554" y="353" key="NewPhpFileDialog" timestamp="1666871883198">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="554" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1666871883198" />
     <state x="208" y="0" key="SettingsEditor" timestamp="1666871857468">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
