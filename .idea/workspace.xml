@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b59ef00-5572-4f7e-8431-42ae83142a2b" name="Default Changelist" comment="" />
+    <list default="true" id="9b59ef00-5572-4f7e-8431-42ae83142a2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_18_assignment/assets/img/sarkermajid.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +52,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_18_assignment2/assets" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\day_18_assignment2\assets" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -64,6 +72,8 @@
       <updated>1666870995814</updated>
       <workItem from="1666870997163" duration="586000" />
       <workItem from="1666871737517" duration="688000" />
+      <workItem from="1667124766415" duration="7631000" />
+      <workItem from="1667146566662" duration="2491000" />
     </task>
     <servers />
   </component>
@@ -83,14 +93,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="148" key="NewPhpClassDialog" timestamp="1666871958073">
+    <state x="404" y="148" key="NewPhpClassDialog" timestamp="1667146718230">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="404" y="148" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1666871958073" />
-    <state x="554" y="353" key="NewPhpFileDialog" timestamp="1666871883198">
+    <state x="404" y="148" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1667146718230" />
+    <state x="554" y="353" key="NewPhpFileDialog" timestamp="1667148734594">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="554" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1666871883198" />
+    <state x="554" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1667148734594" />
     <state x="208" y="0" key="SettingsEditor" timestamp="1666871857468">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
