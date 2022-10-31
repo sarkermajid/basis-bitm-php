@@ -1,0 +1,5 @@
+form a modde action and method bole dite hoy... action hocche kothay jabe eta bole dea lage and method holo 2 types
+1. get(256 data, fast, less-secure) 2. post (unlimited data,slow,more secure).
+post method a data pathaile sob data global variable $_POST a chole jabe.
+
+##2 => __construct function er mul kaj hocche propertyr value assign kora.
