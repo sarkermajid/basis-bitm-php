@@ -10,7 +10,7 @@
     }
 -> php compailar is apache.
 -> php te $this is own class object. kno property ba method dorar jonno $this use kora hoy.
--> __construct() is a magic method. auto call hoy.
+-> __construct() is a magic method. auto call hoy. etar mul kaj holo property te value assign kora.
 -> composer -> autoload [psr4 ekta poddoti].
 -> composer -> require hocche 3rd party kisu add krle project a adike ullekh kora thakbe.
 -> programming is a problem solution.

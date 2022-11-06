@@ -1,0 +1,1 @@
+### Access modyfier public,protescted,private aguli kora ke bole encapsulation.

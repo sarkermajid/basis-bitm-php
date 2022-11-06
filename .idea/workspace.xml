@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9b59ef00-5572-4f7e-8431-42ae83142a2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_19_practice/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/day_19_practice/action.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_19_practice/pages/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/day_19_practice/pages/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_14/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_14/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_17/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_17/note.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +53,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_18_assignment2/assets" />
+    <property name="last_opened_file_path" value="I:/BASIS (PHP with Laravel)/PROJECTS/Bitm Template Design" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\php-crud\pages" />
+      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\php-crud\assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\day_18_assignment2\assets" />
+      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\php-product-crud\assets" />
+      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\php-product-crud\pages" />
+      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\php-crud\assets" />
+      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\php-crud" />
+      <recent name="C:\xampp\htdocs\basis-seip-bitm-php\php-crud\pages" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -79,7 +87,22 @@
       <workItem from="1667210608874" duration="507000" />
       <workItem from="1667213864584" duration="3557000" />
       <workItem from="1667231216348" duration="783000" />
-      <workItem from="1667232194691" duration="2897000" />
+      <workItem from="1667232194691" duration="3672000" />
+      <workItem from="1667298631794" duration="26000" />
+      <workItem from="1667317289384" duration="2849000" />
+      <workItem from="1667320591888" duration="928000" />
+      <workItem from="1667400683717" duration="29000" />
+      <workItem from="1667532060183" duration="9994000" />
+      <workItem from="1667550091614" duration="3975000" />
+      <workItem from="1667557167603" duration="167000" />
+      <workItem from="1667577364293" duration="7155000" />
+      <workItem from="1667616034382" duration="5639000" />
+      <workItem from="1667621776227" duration="939000" />
+      <workItem from="1667665063769" duration="3809000" />
+      <workItem from="1667668920681" duration="505000" />
+      <workItem from="1667732224104" duration="502000" />
+      <workItem from="1667732741509" duration="4210000" />
+      <workItem from="1667747957954" duration="35000" />
     </task>
     <servers />
   </component>
@@ -99,21 +122,44 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1667215023319">
+    <state x="409" y="137" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1667540244408">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1667215023319" />
-    <state x="404" y="148" key="NewPhpClassDialog" timestamp="1667233899242">
+    <state x="409" y="137" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1667540244408" />
+    <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1667539860818">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="404" y="148" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1667233899242" />
-    <state x="554" y="353" key="NewPhpFileDialog" timestamp="1667233573069">
+    <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1667539860818" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1667747991106">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="554" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1667233573069" />
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1667747991106" />
+    <state x="404" y="148" key="NewPhpClassDialog" timestamp="1667665397646">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="404" y="148" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1667665397646" />
+    <state x="554" y="353" key="NewPhpFileDialog" timestamp="1667735184474">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="554" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1667735184474" />
     <state x="208" y="0" key="SettingsEditor" timestamp="1666871857468">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="208" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1666871857468" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1667538833413">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1440.860@0.0.1440.860" timestamp="1667538833413" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/day_20/action.php</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

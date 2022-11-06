@@ -1,4 +1,4 @@
-=> $_GET array ? eta diye bujano hoy.
+=> $_GET array (?) eta diye bujano hoy.
 => $_GET['page'] = "home"; adike page holo index and home holo value.
 
 => isset() build in function ata check kore value ache naki nai. thakle value return kore naile kisu e hoy na false return kore
