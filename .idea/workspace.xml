@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b59ef00-5572-4f7e-8431-42ae83142a2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_14/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_14/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_17/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_17/note.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="I:/BASIS (PHP with Laravel)/PROJECTS/Bitm Template Design" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -103,6 +101,8 @@
       <workItem from="1667732224104" duration="502000" />
       <workItem from="1667732741509" duration="4210000" />
       <workItem from="1667747957954" duration="35000" />
+      <workItem from="1667754710244" duration="723000" />
+      <workItem from="1667814181125" duration="128000" />
     </task>
     <servers />
   </component>
