@@ -45,6 +45,7 @@ class Product
         move_uploaded_file($this->file['image']['tmp_name'],$this->directory);
         return $this->directory;
     }
+
     public function save()
     {
         $this->link = mysqli_connect('localhost', 'root', '', 'bitm-php-product-crud');
@@ -93,12 +94,48 @@ class Product
 
     public function getProductInfoById($id)
     {
-
+        $this->link = mysqli_connect('localhost', 'root', '', 'bitm-php-product-crud');
+        if($this->link)
+        {
+            $this->sql = "SELECT * FROM products WHERE id='$id'";
+            if(mysqli_query($this->link, $this->sql))
+            {
+                $this->queryResult = mysqli_query($this->link, $this->sql);
+                return mysqli_fetch_assoc($this->queryResult);
+            }
+            else
+            {
+                die('Query problems...'.mysqli_error($this->link));
+            }
+        }
     }
 
-    public function updateProductInfo()
+    public function updateProductInfo($productInfo)
     {
+        $this->link = mysqli_connect('localhost', 'root', '', 'bitm-php-product-crud');
+        if($this->link)
+        {
+            if(empty($this->file['image']['name']))
+            {
+                $this->imgUrl = $productInfo['image'];
 
+            }
+            else
+            {
+                unlink($productInfo['image']);
+                $this->imgUrl = $this->getImageUrl();
+            }
+
+            $this->sql = "UPDATE products SET name = '$this->name', price = '$this->price', stock = '$this->stock', description = '$this->description', image = '$this->imgUrl' WHERE id = '$productInfo[id]'";
+            if(mysqli_query($this->link, $this->sql))
+            {
+                return "Product update successfully";
+            }
+            else
+            {
+                die('Query problems...'.mysqli_error($this->link));
+            }
+        }
     }
 
     public function deleteProductInfo($id)
