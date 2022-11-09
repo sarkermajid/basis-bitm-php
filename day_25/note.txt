@@ -1,0 +1,33 @@
+## class Home extends User // adike parent User and child Home . jake extends kore se parent.
+{
+
+}
+## child parent class er public and protected property and method pabe bt private pabe nah. // eta inheritance
+ami object make na kre e User class er sob property and method ar access pacchi eta e bole inheritance.
+ekta class ke use korar 2 ta method. akta object make kore arekta extends kore.
+
+## $this-> eta mane own class object.
+
+## polymorphysm -> ata mane overright kora. parent class er property use kore child class a new value assign kora jay. and
+sey property echo korle child class er value show korbe. ai overwright k e polymorphysm bole.
+
+
+## static property dorar jonno $this-> ata diye kora jay na self:: diye dorte hoy.
+
+## je function a static nai seta non-static method bole.
+
+## static function er vitore non static property use kora jabe nah.
+## non static function er vitore static property use kora jabe.
+
+## static function call korar jonno jonno class er object create kora lagbe nah. ar eta call kore Home::test(); ai vabe.
+:: ai sign k bole scop regulation operator.
+
+## Interface ar kaj hocche function make kora sudu function one() aivabe use kore kno body thake nah and ata te kno property
+declare kora jay nah. interface er object view file theke make kra jabe nah
+
+## abstract class call kore abstract class classname{} aivabe.abstract function crate kre public abstract
+function(). er kno body hoy nah.. abstract class er object make kora jay nah. eta use diye thn extends kore use kora hoy.
+class guli k secrure korar jonno amra abstract class use kori.
+
+## trait like a class. bt eta object make kora jay nah. extends and implement o kora jay nah use diye use kora jay. taile
+sob property and method er access pawa jabe.

@@ -21,10 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9b59ef00-5572-4f7e-8431-42ae83142a2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-product-crud/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-product-crud/action.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-product-crud/app/classes/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-product-crud/app/classes/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-product-crud/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-product-crud/pages/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-product-crud/pages/manage-products.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-product-crud/pages/manage-products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assesment_2/pages/brand.php" beforeDir="false" afterPath="$PROJECT_DIR$/assesment_2/pages/brand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assesment_2/pages/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/assesment_2/pages/category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assesment_2/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/assesment_2/pages/home.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,8 @@
       <workItem from="1667747957954" duration="35000" />
       <workItem from="1667754710244" duration="723000" />
       <workItem from="1667814181125" duration="9065000" />
-      <workItem from="1667835730429" duration="3394000" />
+      <workItem from="1667835730429" duration="4145000" />
+      <workItem from="1667910045495" duration="962000" />
     </task>
     <servers />
   </component>

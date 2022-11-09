@@ -1,0 +1,29 @@
+# Database ->
+1. Oracle (paid)
+2. MSSQL (SQL Server) (paid)
+3. MongoDB
+4. MySQL
+5. Firebase
+
+
+# maria db -> db engine.
+
+3 ta jinis main database er jonno.
+#database server -> ektta database server a onk database thakte pare.
+#database -> database er modde onk guli table thakte pare. database create korar jonno _ underscrod dea valo use.
+#table -> table er nam always plural hobe. table er column input field er theke always minimum 1ta besi hobe. input
+field er name ja ase same name e table r column hobe.
+
+table er type ->
+jokon kno column er value jodi purno songkha hoy taile numeric select krte pari.
+adike tnyint a 4 word nite parbo. int a 10-11 nite pari. big-int nile 20 nite parbo.
+
+varchar a 255 length hoy. jodi input field er value 255 character er modde thake taile varchar use krbo er besi hoile
+text dibo.
+
+raw php te mysql niye muloto 3ta class niye kaj hoy..
+1. mysql
+2. mysqli (besi use hoy ai class ta and eta easy.
+3. PDO
+
+#php class er nam always singular hobe.

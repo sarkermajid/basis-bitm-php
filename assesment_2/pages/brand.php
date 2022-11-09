@@ -3,6 +3,7 @@
     <section class="py-5">
         <div class="container">
             <div class="row">
+                <h1 class="display-3 fw-bold text-center mb-5">Brand's</h1>
                 <?php foreach ($brands as $brand) { ?>
                     <div class="col-md-4">
                         <div class="card bg-dark text-white mb-3">
