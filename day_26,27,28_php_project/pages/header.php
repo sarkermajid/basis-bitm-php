@@ -15,11 +15,16 @@
 
 <nav class="navbar navbar-expand-md navbar-dark bg-dark shadow-lg">
     <div class="container">
-        <div class="navbar-brand">PHP PROJECT</div>
+        <div class="navbar-brand text-info" style="font-family: cursive">PHP PROJECT</div>
         <ul class="navbar-nav">
             <li><a href="action.php?page=home" class="nav-link">Home</a></li>
-            <li><a href="action.php?page=add-blog" class="nav-link">Add Blog</a></li>
-            <li><a href="action.php?page=manage-blog" class="nav-link">Manage Blog</a></li>
+            <?php if(isset($_SESSION['id'])) { ?>
+                <li><a href="action.php?page=add-blog" class="nav-link">Add Blog</a></li>
+                <li><a href="action.php?page=manage-blog" class="nav-link">Manage Blog</a></li>
+                <li><a href="action.php?page=logout" class="nav-link">Logout</a></li>
+            <?php } else {?>
+                <li><a href="action.php?page=login" class="nav-link">Login</a></li>
+            <?php } ?>
         </ul>
     </div>
 </nav>

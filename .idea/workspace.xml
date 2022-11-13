@@ -21,9 +21,47 @@
   <component name="ChangeListManager">
     <list default="true" id="9b59ef00-5572-4f7e-8431-42ae83142a2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assesment_2/pages/brand.php" beforeDir="false" afterPath="$PROJECT_DIR$/assesment_2/pages/brand.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assesment_2/pages/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/assesment_2/pages/category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assesment_2/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/assesment_2/pages/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/action.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/app/classes/Blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/app/classes/Database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/app/classes/Home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/img/panjabi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/img/shari.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/img/shirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/img/tshirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/js/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/webfonts/fa-v4compatibility.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/assets/webfonts/fa-v4compatibility.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/pages/add-blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/pages/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/pages/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/pages/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/pages/manage-blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_26_php_project/vendor/composer/autoload_static.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +92,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sportshub" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -108,6 +146,17 @@
       <workItem from="1667814181125" duration="9065000" />
       <workItem from="1667835730429" duration="4145000" />
       <workItem from="1667910045495" duration="962000" />
+      <workItem from="1668013760822" duration="643000" />
+      <workItem from="1668077417593" duration="23000" />
+      <workItem from="1668096069947" duration="2607000" />
+      <workItem from="1668102585293" duration="598000" />
+      <workItem from="1668104824815" duration="7000" />
+      <workItem from="1668132759928" duration="10394000" />
+      <workItem from="1668156814057" duration="1001000" />
+      <workItem from="1668180643104" duration="2783000" />
+      <workItem from="1668220411425" duration="30000" />
+      <workItem from="1668274332712" duration="1205000" />
+      <workItem from="1668356690112" duration="3007000" />
     </task>
     <servers />
   </component>
@@ -135,14 +184,15 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1667539860818" />
-    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1667747991106">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1668357107021">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1667747991106" />
-    <state x="404" y="148" key="NewPhpClassDialog" timestamp="1667665397646">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1668357107021" />
+    <state x="404" y="188" key="NewPhpClassDialog" timestamp="1668096088488">
+      <screen x="0" y="40" width="1440" height="860" />
     </state>
     <state x="404" y="148" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1667665397646" />
+    <state x="404" y="188" key="NewPhpClassDialog/0.40.1440.860@0.40.1440.860" timestamp="1668096088488" />
     <state x="554" y="353" key="NewPhpFileDialog" timestamp="1667816252593">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -155,16 +205,5 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1440.860@0.0.1440.860" timestamp="1667538833413" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/day_20/action.php</url>
-          <line>37</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

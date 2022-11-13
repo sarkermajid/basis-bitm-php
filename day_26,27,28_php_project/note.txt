@@ -27,3 +27,6 @@ raw php te mysql niye muloto 3ta class niye kaj hoy..
 3. PDO
 
 #php class er nam always singular hobe.
+
+## Session => browser er modde 2 doroner memeory thke primary(session)=ram and coockie(secoundary)=harddisk.  eta browser er ek doroner memory.
+ ekta nidristo somoy kisu thakbe abr thakbe nah... joto khn thakbe eta e session.
